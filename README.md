@@ -1,13 +1,3 @@
-
-
-
-
-Welcome to the internets finest middle of nowhere.
-
-
-
-
-
 "Come with me and you'll be in a world of pure imagination".
 This is my journey to turn my Plain Ender 3 into something better.
 "I go hard and deep and sometimes I break things".
