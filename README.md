@@ -24,3 +24,6 @@ https://youtu.be/dtwWnz2-5VQ?si=JWcEEPPuY_Ht4ryf
 This Guy has videos that are very helpful to me. Works slow says what things do ect. 
 3D Printerscape
 https://www.youtube.com/@3DPrintscape/videos
+
+Great Video on z-offset and nozzle location.
+https://youtu.be/5vmjBXvY6BA?si=iWgAmODJFrSX7n6P
