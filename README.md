@@ -27,3 +27,6 @@ https://www.youtube.com/@3DPrintscape/videos
 
 Great Video on z-offset and nozzle location.
 https://youtu.be/5vmjBXvY6BA?si=iWgAmODJFrSX7n6P
+
+A good video on skew compensation.
+https://youtu.be/H7OsnMLDIMw?si=GEX1fN_gWqIDXc46
