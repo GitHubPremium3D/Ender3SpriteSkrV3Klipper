@@ -10,3 +10,4 @@ Ran a few bed leveling and calibrated from prints.
 You can find my setup files included here as well as my macros.
 
 Still a work in progress but getting better quickly.
+More information in the printer.cfg file here.
